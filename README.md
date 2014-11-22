@@ -7,3 +7,6 @@ iOS' Music app, since iOS 7, has terribly huge cover art for some lists. They're
 
 This tweak reduces the cover art size wherever possible. It's quickly done, so there is still a lot of padding left, and things don't look as good as they could.  
 But heh, enjoy !
+
+![iPhone Screenshot](https://raw.github.com/abarisain/SmallMusicList/master/screenshot_iphone.png)  
+![iPad Screenshot](https://raw.github.com/abarisain/SmallMusicList/master/screenshot_ipad.png)  
