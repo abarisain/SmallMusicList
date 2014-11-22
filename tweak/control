@@ -1,0 +1,9 @@
+Package: fr.nlss.smallmusiclist
+Name: SmallMusicList
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Make that music list smaller !
+Maintainer: Arnaud Barisain-Monrose
+Author: Arnaud Barisain-Monrose
+Section: Tweaks
